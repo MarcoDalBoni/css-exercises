@@ -1,0 +1,17 @@
+.odd-numbered {
+    background-color: rgb(255, 211, 218);
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}.third {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth{
+    background-color: rgb(150, 248, 4);
+    font-size: 24px;
+    font-weight: bold;
+}
